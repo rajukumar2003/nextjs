@@ -1,6 +1,5 @@
 'use client';
 
-import { log } from 'console';
 // import client from '@/db';
 import { signIn, signOut, useSession } from 'next-auth/react';
 
